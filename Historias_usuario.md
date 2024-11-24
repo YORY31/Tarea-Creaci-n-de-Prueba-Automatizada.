@@ -60,7 +60,7 @@ Como usuario, quiero aprender cómo insertar un enlace externo en una página HT
 ### Criterios de Aceptación:
 - El enlace de YouTube debe ser visible en la página de tutorial de W3Schools.
 - Al hacer clic en el enlace, el navegador debe abrir una nueva ventana con el sitio de YouTube.
-- El título de la nueva ventana debe contener "YouTube".
+- El título de la nueva ventana debe contener YouTube"
 
 ### Criterios de Rechazo:
 - Si el enlace no está disponible o no es clickeable, la prueba debe marcarse como fallida.
